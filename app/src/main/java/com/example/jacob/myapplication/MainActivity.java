@@ -57,6 +57,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void helloWorld(View view) {
         helloTxt = (TextView) findViewById((R.id.helloTxt));
-        helloTxt.setText("Hey!");
+        helloTxt.setText("Hello World!");
     }
 }
